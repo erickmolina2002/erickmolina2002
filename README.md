@@ -1,5 +1,5 @@
 ### Olá, eu sou Erick Molina
-- 📚 Cursando Engenharia de Software Fiap
+- 📚 Cursando Engenharia de Software FIAP
 - 📚 Programador ["back-end" => "PHP"];
 - 📚 Livros: Clean Code, Clean Architecture
 - 📭 Contato: erickmolina2002@hotmail.com | (11) 96313-0109
