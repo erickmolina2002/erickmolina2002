@@ -1,6 +1,7 @@
 ### Olá, eu sou Erick Molina
 - 📚 Cursando Engenharia de Software Fiap
 - 📚 Programador ["back-end" => "PHP"];
+- 📚 Livros: Clean Code, Clean Architecture...
 - 📭 Contato: erickmolina2002@hotmail.com | (11) 96313-0109
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickmolina2002&show_icons=true&theme=radical) 
