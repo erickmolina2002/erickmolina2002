@@ -4,7 +4,7 @@
 - 📚 Livros: Clean Code, Clean Architecture
 - 📭 Contato: erickmolina2002@hotmail.com | (11) 96313-0109
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joraysuke&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickmolina2002&show_icons=true&theme=radical) 
 ##
 ### Minhas Linguagens
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
