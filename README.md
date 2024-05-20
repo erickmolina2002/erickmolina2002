@@ -1,8 +1,8 @@
 Olá, eu sou Erick Molina
-📚 Cursando Engenharia de Software FIAP
-💻 Desenvolvedor Full Stack Pleno
-🛠️ Tecnologias: PHP | Laravel | Yii2 | Javascript | Vue | Angular | Python | Machine Learning | YOLOv8
-📭 Contato: erickmolina2002@hotmail.com | (11) 96313-0109
+- 📚 Cursando Engenharia de Software FIAP
+- 💻 Desenvolvedor Full Stack Pleno
+- 🛠️ Tecnologias: PHP | Laravel | Yii2 | Javascript | Vue | Angular | Python | Machine Learning | YOLOv8
+- 📭 Contato: erickmolina2002@hotmail.com | (11) 96313-0109
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickmolina2002&show_icons=true&theme=radical) 
 ##
